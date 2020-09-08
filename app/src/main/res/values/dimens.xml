@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_zero_dp">0dp</dimen>
+    <dimen name="fab_margin">32dp</dimen>
+    <dimen name="margin_recyclerview">8dp</dimen>
+    <dimen name="layout_margin_card_view">8dp</dimen>
+    <dimen name="layout_margin_constraint_layout">8dp</dimen>
+    <dimen name="padding_constraint_layout">15dp</dimen>
+    <dimen name="text_note_title">18sp</dimen>
+    <dimen name="text_note_date">15sp</dimen>
+</resources>
